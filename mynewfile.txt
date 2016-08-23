@@ -1,1 +1,3 @@
 a new file for checking new repo location
+
+new lines added and changed for checking push & Pull
